@@ -561,6 +561,7 @@ body { display: flex; }
 
 .mobile-topbar {
   display: flex;
+  background-color: red;
   align-items: center;
   justify-content: space-between;
   padding: 20px 24px;
@@ -591,7 +592,6 @@ body { display: flex; }
 
   .main {
     height: calc(100vh - 60px);
-    padding-top: 60px;
   }
 
   .viewer { padding: 20px; }
