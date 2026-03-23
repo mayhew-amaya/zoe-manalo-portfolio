@@ -1,0 +1,52 @@
+{
+  "projects": [
+    {
+      "folder": "collaborations/floor13",
+      "label": "Floor 13, NYC 2024",
+      "category": "collaborations",
+      "thumbnail": "/images/collaborations/floor13/DSC00689.jpg"
+    },
+    {
+      "folder": "collaborations/gypsy",
+      "label": "Gypsy Bride 2017",
+      "category": "collaborations",
+      "thumbnail": "/images/collaborations/gypsy/GypsyBride.ZM (1 of 120).jpg"
+    },
+    {
+      "folder": "pagitan",
+      "label": "Pagitan, 2023",
+      "category": "projects",
+      "thumbnail": "/images/pagitan/01.jpg"
+    },
+    {
+      "folder": "filipinoparade",
+      "label": "Philippine's Parade, NY 2023",
+      "category": "projects",
+      "thumbnail": "/images/filipinoparade/Parade7.jpg"
+    },
+    {
+      "folder": "filmphotography",
+      "label": "Film Photography",
+      "category": "projects",
+      "thumbnail": "/images/filmphotography/01.jpg"
+    },
+    {
+      "folder": "commission/engagement",
+      "label": "Engagement",
+      "category": "commission",
+      "thumbnail": "/images/commission/engagement/06 Jason and Mirna.jpg"
+    },
+    {
+      "folder": "commission/family",
+      "label": "Family",
+      "category": "commission",
+      "thumbnail": "/images/commission/family/DSC03529.jpg"
+    },
+    {
+      "folder": "commission/portraits",
+      "label": "Portraits",
+      "category": "commission",
+      "thumbnail": "/images/commission/portraits/DSC03780.jpg"
+    }
+  ]
+}
