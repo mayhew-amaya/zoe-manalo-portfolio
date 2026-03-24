@@ -16,5 +16,9 @@
     "/images/commission/family/DSC03374.jpg",
     "/images/commission/family/DSC03465.jpg",
     "/images/commission/family/DSC03529.jpg"
+  ],
+  "groups": [
+    { "startIndex": 0, "label": "DeCicco Family" },
+    { "startIndex": 5, "label": "Baca Family" }
   ]
 }

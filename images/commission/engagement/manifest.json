@@ -9,5 +9,9 @@
     "/images/commission/engagement/07Natalie and Landen.jpg",
     "/images/commission/engagement/08 Natalie and Landen.jpg",
     "/images/commission/engagement/09 Natalie and Landen.jpg"
+  ],
+  "groups": [
+    { "startIndex": 0, "label": "Jason & Mirna" },
+    { "startIndex": 5, "label": "Natalie & Landen" }
   ]
 }
